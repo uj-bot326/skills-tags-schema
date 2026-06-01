@@ -1,0 +1,72 @@
+{
+  "sql-server": {
+    "url": "https://stackoverflow.com/tags/sql-server/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "json": {
+    "url": "https://stackoverflow.com/tags/json/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "asp.net": {
+    "url": "https://stackoverflow.com/tags/asp.net/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "linux": {
+    "url": "https://stackoverflow.com/tags/linux/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "ruby": {
+    "url": "https://stackoverflow.com/tags/ruby/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "typescript": {
+    "url": "https://stackoverflow.com/tags/typescript/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "angularjs": {
+    "url": "https://stackoverflow.com/tags/angularjs/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "excel": {
+    "url": "https://stackoverflow.com/tags/excel/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "ajax": {
+    "url": "https://stackoverflow.com/tags/ajax/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  },
+  "regex": {
+    "url": "https://stackoverflow.com/tags/regex/info",
+    "description": "",
+    "synonyms": [],
+    "synonym_of": "",
+    "status": "http_403"
+  }
+}

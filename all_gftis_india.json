@@ -1,0 +1,1167 @@
+[
+  {
+    "college_name_standardized": "Assam University",
+    "short_name": "Assam University",
+    "region": "East",
+    "city": "Silchar",
+    "state": "Assam",
+    "type": "GFTI (Central University)",
+    "established": 1994,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering"
+    ],
+    "website": "https://www.aus.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/assam-university-silchar-10779"
+  },
+  {
+    "college_name_standardized": "Birla Institute of Technology Mesra",
+    "short_name": "BIT Mesra",
+    "region": "East",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "GFTI (Deemed University)",
+    "established": 1955,
+    "nirf_ranking": 58,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA",
+      "MCA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Production Engineering",
+      "Space Engineering",
+      "Biotechnology",
+      "Architecture"
+    ],
+    "website": "https://www.bitmesra.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/bit-mesra-ranchi-11119"
+  },
+  {
+    "college_name_standardized": "Birla Institute of Technology Deoghar Off-Campus",
+    "short_name": "BIT Deoghar",
+    "region": "East",
+    "city": "Deoghar",
+    "state": "Jharkhand",
+    "type": "GFTI (Deemed University)",
+    "established": 2013,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "website": "https://www.bitmesra.ac.in/deoghar",
+    "shiksha_url": "https://www.shiksha.com/university/bit-deoghar-deoghar-79345"
+  },
+  {
+    "college_name_standardized": "Birla Institute of Technology Patna Off-Campus",
+    "short_name": "BIT Patna",
+    "region": "East",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "GFTI (Deemed University)",
+    "established": 2013,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "website": "https://www.bitmesra.ac.in/patna",
+    "shiksha_url": "https://www.shiksha.com/university/bit-patna-patna-79346"
+  },
+  {
+    "college_name_standardized": "Central Institute of Technology Kokrajhar",
+    "short_name": "CIT Kokrajhar",
+    "region": "East",
+    "city": "Kokrajhar",
+    "state": "Assam",
+    "type": "GFTI (Central Govt)",
+    "established": 2006,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.cit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/cit-kokrajhar-kokrajhar-36520"
+  },
+  {
+    "college_name_standardized": "Central University of Haryana",
+    "short_name": "CUH Mahendragarh",
+    "region": "North",
+    "city": "Mahendragarh",
+    "state": "Haryana",
+    "type": "GFTI (Central University)",
+    "established": 2009,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "website": "https://www.cuh.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/central-university-of-haryana-mahendragarh-36521"
+  },
+  {
+    "college_name_standardized": "Central University of Jammu",
+    "short_name": "CUJ Jammu",
+    "region": "North",
+    "city": "Jammu",
+    "state": "Jammu & Kashmir",
+    "type": "GFTI (Central University)",
+    "established": 2011,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering"
+    ],
+    "website": "https://www.cujammu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/central-university-of-jammu-jammu-79347"
+  },
+  {
+    "college_name_standardized": "Central University of Jharkhand",
+    "short_name": "CUJ Ranchi",
+    "region": "East",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "GFTI (Central University)",
+    "established": 2009,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Nanotechnology",
+      "Integrated Water Management"
+    ],
+    "website": "https://www.cuj.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/central-university-of-jharkhand-ranchi-36522"
+  },
+  {
+    "college_name_standardized": "Central University of Rajasthan",
+    "short_name": "CURAJ Ajmer",
+    "region": "North",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "type": "GFTI (Central University)",
+    "established": 2009,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Biotechnology",
+      "Mathematics"
+    ],
+    "website": "https://www.curaj.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/central-university-of-rajasthan-ajmer-36523"
+  },
+  {
+    "college_name_standardized": "Chhattisgarh Swami Vivekanand Technical University",
+    "short_name": "CSVTU Bhilai",
+    "region": "Central",
+    "city": "Bhilai",
+    "state": "Chhattisgarh",
+    "type": "GFTI (State University)",
+    "established": 2005,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA",
+      "MCA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.csvtu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/csvtu-bhilai-36524"
+  },
+  {
+    "college_name_standardized": "Gati Shakti Vishwavidyalaya",
+    "short_name": "GSV Vadodara",
+    "region": "West",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "type": "GFTI (Central University)",
+    "established": 2022,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Railway Engineering",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Computer Science",
+      "Logistics & Supply Chain"
+    ],
+    "website": "https://www.gsv.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/gati-shakti-vishwavidyalaya-vadodara-200001"
+  },
+  {
+    "college_name_standardized": "Ghani Khan Choudhury Institute of Engineering & Technology",
+    "short_name": "GKCIET Malda",
+    "region": "East",
+    "city": "Malda",
+    "state": "West Bengal",
+    "type": "GFTI (Central Govt)",
+    "established": 2013,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering"
+    ],
+    "website": "https://www.gkciet.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/gkciet-malda-malda-79348"
+  },
+  {
+    "college_name_standardized": "Gurukul Kangri University",
+    "short_name": "GKU Haridwar",
+    "region": "North",
+    "city": "Haridwar",
+    "state": "Uttarakhand",
+    "type": "GFTI (Deemed University)",
+    "established": 1902,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Chemical Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.gkvharidwar.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/gurukul-kangri-university-haridwar-14072"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Carpet Technology",
+    "short_name": "IICT Bhadohi",
+    "region": "North",
+    "city": "Bhadohi",
+    "state": "Uttar Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 1994,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Carpet and Textile Technology",
+      "Mechanical Engineering",
+      "Computer Science"
+    ],
+    "website": "https://www.iict.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/indian-institute-of-carpet-technology-bhadohi-36525"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Handloom Technology Salem",
+    "short_name": "IIHT Salem",
+    "region": "South",
+    "city": "Salem",
+    "state": "Tamil Nadu",
+    "type": "GFTI (Central Govt)",
+    "established": 1935,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Textile Technology",
+      "Handloom Technology"
+    ],
+    "website": "https://www.iiht-salem.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiht-salem-salem-200002"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Handloom Technology Varanasi",
+    "short_name": "IIHT Varanasi",
+    "region": "North",
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 1952,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Textile Technology",
+      "Handloom Technology"
+    ],
+    "website": "https://www.iiht-varanasi.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiht-varanasi-varanasi-200003"
+  },
+  {
+    "college_name_standardized": "Institute of Chemical Technology Mumbai Indian Oil Odisha Campus",
+    "short_name": "ICT Mumbai Odisha",
+    "region": "East",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "GFTI (Deemed University)",
+    "established": 2016,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Chemical Engineering",
+      "Polymer Engineering",
+      "Oils Fats & Waxes",
+      "Pharmaceutical Chemistry"
+    ],
+    "website": "https://www.ictmumbai.edu.in",
+    "shiksha_url": "https://www.shiksha.com/university/ict-mumbai-odisha-campus-bhubaneswar-200004"
+  },
+  {
+    "college_name_standardized": "Institute of Engineering and Technology Dr. Hari Singh Gour University",
+    "short_name": "IET Sagar",
+    "region": "Central",
+    "city": "Sagar",
+    "state": "Madhya Pradesh",
+    "type": "GFTI (Central University)",
+    "established": 1946,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.dhsgsu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iet-sagar-sagar-79349"
+  },
+  {
+    "college_name_standardized": "Institute of Infrastructure Technology Research and Management",
+    "short_name": "IITRAM Ahmedabad",
+    "region": "West",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "type": "GFTI (State Govt)",
+    "established": 2013,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iitram.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iitram-ahmedabad-ahmedabad-79350"
+  },
+  {
+    "college_name_standardized": "Institute of Technology Guru Ghasidas Vishwavidyalaya",
+    "short_name": "IT GGV Bilaspur",
+    "region": "Central",
+    "city": "Bilaspur",
+    "state": "Chhattisgarh",
+    "type": "GFTI (Central University)",
+    "established": 2009,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Information Technology",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.ggu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/ggv-bilaspur-bilaspur-36526"
+  },
+  {
+    "college_name_standardized": "International Institute of Information Technology Bhubaneswar",
+    "short_name": "IIIT Bhubaneswar",
+    "region": "East",
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "type": "GFTI (State Govt)",
+    "established": 2006,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Electrical Engineering",
+      "Information Technology",
+      "Data Science"
+    ],
+    "website": "https://www.iiit-bh.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-bhubaneswar-bhubaneswar-36527"
+  },
+  {
+    "college_name_standardized": "Dr. Shyama Prasad Mukherjee International Institute of Information Technology",
+    "short_name": "IIIT Naya Raipur",
+    "region": "Central",
+    "city": "Naya Raipur",
+    "state": "Chhattisgarh",
+    "type": "GFTI (State Govt)",
+    "established": 2015,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence",
+      "Information Technology"
+    ],
+    "website": "https://www.iiitnr.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-naya-raipur-raipur-114778"
+  },
+  {
+    "college_name_standardized": "Islamic University of Science and Technology",
+    "short_name": "IUST Pulwama",
+    "region": "North",
+    "city": "Pulwama",
+    "state": "Jammu & Kashmir",
+    "type": "GFTI (State University)",
+    "established": 2005,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.iust.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iust-pulwama-pulwama-79351"
+  },
+  {
+    "college_name_standardized": "J. K. Institute of Applied Physics and Technology University of Allahabad",
+    "short_name": "JKIAPTAT Allahabad",
+    "region": "North",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "GFTI (Central University)",
+    "established": 1984,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.allduniv.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/jk-institute-allahabad-prayagraj-36528"
+  },
+  {
+    "college_name_standardized": "Jawaharlal Nehru University",
+    "short_name": "JNU New Delhi",
+    "region": "North",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "GFTI (Central University)",
+    "established": 1969,
+    "nirf_ranking": 2,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Biotechnology",
+      "Environmental Science",
+      "Life Sciences",
+      "International Studies"
+    ],
+    "website": "https://www.jnu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/jawaharlal-nehru-university-new-delhi-10799"
+  },
+  {
+    "college_name_standardized": "Mizoram University",
+    "short_name": "MZU Aizawl",
+    "region": "East",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "type": "GFTI (Central University)",
+    "established": 2001,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Electrical Engineering"
+    ],
+    "website": "https://www.mzu.edu.in",
+    "shiksha_url": "https://www.shiksha.com/university/mizoram-university-aizawl-14091"
+  },
+  {
+    "college_name_standardized": "National Institute of Advanced Manufacturing Technology",
+    "short_name": "NIAMT Ranchi",
+    "region": "East",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "GFTI (Central Govt)",
+    "established": 1974,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Manufacturing Engineering",
+      "Production Engineering",
+      "Mechanical Engineering",
+      "Computer Science",
+      "Metallurgical Engineering"
+    ],
+    "website": "https://www.niamt.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/niamt-ranchi-ranchi-36529"
+  },
+  {
+    "college_name_standardized": "National Institute of Electronics & Information Technology Chhatrapati Sambhaji Nagar",
+    "short_name": "NIELIT Aurangabad",
+    "region": "West",
+    "city": "Chhatrapati Sambhaji Nagar",
+    "state": "Maharashtra",
+    "type": "GFTI (Central Govt)",
+    "established": 1994,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.nielit.gov.in",
+    "shiksha_url": "https://www.shiksha.com/university/nielit-aurangabad-aurangabad-36530"
+  },
+  {
+    "college_name_standardized": "National Institute of Electronics and Information Technology Ajmer",
+    "short_name": "NIELIT Ajmer",
+    "region": "North",
+    "city": "Ajmer",
+    "state": "Rajasthan",
+    "type": "GFTI (Central Govt)",
+    "established": 2010,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.nielit.gov.in/ajmer",
+    "shiksha_url": "https://www.shiksha.com/university/nielit-ajmer-ajmer-200005"
+  },
+  {
+    "college_name_standardized": "National Institute of Electronics and Information Technology Gorakhpur",
+    "short_name": "NIELIT Gorakhpur",
+    "region": "North",
+    "city": "Gorakhpur",
+    "state": "Uttar Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 2010,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.nielit.gov.in/gorakhpur",
+    "shiksha_url": "https://www.shiksha.com/university/nielit-gorakhpur-gorakhpur-200006"
+  },
+  {
+    "college_name_standardized": "National Institute of Electronics and Information Technology Patna",
+    "short_name": "NIELIT Patna",
+    "region": "East",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "GFTI (Central Govt)",
+    "established": 2010,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.nielit.gov.in/patna",
+    "shiksha_url": "https://www.shiksha.com/university/nielit-patna-patna-200007"
+  },
+  {
+    "college_name_standardized": "National Institute of Electronics and Information Technology Ropar",
+    "short_name": "NIELIT Ropar",
+    "region": "North",
+    "city": "Ropar",
+    "state": "Punjab",
+    "type": "GFTI (Central Govt)",
+    "established": 2010,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Electronics & Communication",
+      "Computer Science",
+      "Information Technology"
+    ],
+    "website": "https://www.nielit.gov.in/ropar",
+    "shiksha_url": "https://www.shiksha.com/university/nielit-ropar-ropar-200008"
+  },
+  {
+    "college_name_standardized": "National Institute of Food Technology Entrepreneurship and Management Sonepat",
+    "short_name": "NIFTEM Sonepat",
+    "region": "North",
+    "city": "Sonepat",
+    "state": "Haryana",
+    "type": "GFTI (Central Govt)",
+    "established": 2012,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Food Technology",
+      "Food Safety",
+      "Agricultural Engineering",
+      "Biotechnology",
+      "Computer Science"
+    ],
+    "website": "https://www.niftem.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/niftem-sonepat-sonepat-79352"
+  },
+  {
+    "college_name_standardized": "National Institute of Food Technology Entrepreneurship and Management Thanjavur",
+    "short_name": "NIFTEM Thanjavur",
+    "region": "South",
+    "city": "Thanjavur",
+    "state": "Tamil Nadu",
+    "type": "GFTI (Central Govt)",
+    "established": 2020,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Food Technology",
+      "Food Safety",
+      "Agricultural Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.niftem-t.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/niftem-thanjavur-thanjavur-200009"
+  },
+  {
+    "college_name_standardized": "North Eastern Regional Institute of Science and Technology",
+    "short_name": "NERIST Itanagar",
+    "region": "East",
+    "city": "Itanagar",
+    "state": "Arunachal Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 1984,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Agricultural Engineering",
+      "Forestry"
+    ],
+    "website": "https://www.nerist.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nerist-itanagar-itanagar-36531"
+  },
+  {
+    "college_name_standardized": "North-Eastern Hill University",
+    "short_name": "NEHU Shillong",
+    "region": "East",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "type": "GFTI (Central University)",
+    "established": 1973,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Electrical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.nehu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nehu-shillong-shillong-14093"
+  },
+  {
+    "college_name_standardized": "Puducherry Technological University",
+    "short_name": "PTU Puducherry",
+    "region": "South",
+    "city": "Puducherry",
+    "state": "Puducherry",
+    "type": "GFTI (State University)",
+    "established": 2012,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Information Technology",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.pec.edu",
+    "shiksha_url": "https://www.shiksha.com/university/puducherry-technological-university-puducherry-200010"
+  },
+  {
+    "college_name_standardized": "Punjab Engineering College",
+    "short_name": "PEC Chandigarh",
+    "region": "North",
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "type": "GFTI (Central Govt - Deemed)",
+    "established": 1921,
+    "nirf_ranking": 101,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Aerospace Engineering",
+      "Electronics & Communication",
+      "Production Engineering",
+      "Materials Science",
+      "Metallurgical Engineering"
+    ],
+    "website": "https://www.pec.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/pec-chandigarh-chandigarh-11120"
+  },
+  {
+    "college_name_standardized": "Rajiv Gandhi National Aviation University",
+    "short_name": "RGNAU Amethi",
+    "region": "North",
+    "city": "Fursatganj, Amethi",
+    "state": "Uttar Pradesh",
+    "type": "GFTI (Central University)",
+    "established": 2013,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Aerospace Engineering",
+      "Avionics",
+      "Computer Science",
+      "Electronics & Communication",
+      "Airport Management"
+    ],
+    "website": "https://www.rgnau.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/rgnau-amethi-amethi-79353"
+  },
+  {
+    "college_name_standardized": "Sant Longowal Institute of Engineering and Technology",
+    "short_name": "SLIET Longowal",
+    "region": "North",
+    "city": "Longowal",
+    "state": "Punjab",
+    "type": "GFTI (Central Govt - Deemed)",
+    "established": 1989,
+    "nirf_ranking": 111,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Food Technology",
+      "Instrumentation"
+    ],
+    "website": "https://www.sliet.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/sliet-longowal-longowal-11121"
+  },
+  {
+    "college_name_standardized": "School of Engineering Tezpur University",
+    "short_name": "Tezpur University",
+    "region": "East",
+    "city": "Tezpur",
+    "state": "Assam",
+    "type": "GFTI (Central University)",
+    "established": 1994,
+    "nirf_ranking": 76,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Chemical Engineering",
+      "Food Technology"
+    ],
+    "website": "https://www.tezu.ernet.in",
+    "shiksha_url": "https://www.shiksha.com/university/tezpur-university-tezpur-11122"
+  },
+  {
+    "college_name_standardized": "School of Planning and Architecture Bhopal",
+    "short_name": "SPA Bhopal",
+    "region": "Central",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 2008,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Arch",
+      "B.Plan",
+      "M.Plan",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Architecture",
+      "Urban Planning",
+      "Industrial Design",
+      "Landscape Architecture"
+    ],
+    "website": "https://www.spabhopal.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/spa-bhopal-bhopal-36532"
+  },
+  {
+    "college_name_standardized": "School of Planning and Architecture New Delhi",
+    "short_name": "SPA New Delhi",
+    "region": "North",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "GFTI (Central Govt)",
+    "established": 1955,
+    "nirf_ranking": 8,
+    "degrees_offered": [
+      "B.Arch",
+      "B.Plan",
+      "M.Plan",
+      "M.Arch",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Architecture",
+      "Urban Planning",
+      "Industrial Design",
+      "Landscape Architecture",
+      "Environmental Planning",
+      "Housing",
+      "Transport Planning"
+    ],
+    "website": "https://www.spa.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/spa-new-delhi-new-delhi-11123"
+  },
+  {
+    "college_name_standardized": "School of Planning and Architecture Vijayawada",
+    "short_name": "SPA Vijayawada",
+    "region": "South",
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "type": "GFTI (Central Govt)",
+    "established": 2008,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Arch",
+      "B.Plan",
+      "M.Plan",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Architecture",
+      "Urban Planning",
+      "Industrial Design"
+    ],
+    "website": "https://www.spav.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/spa-vijayawada-vijayawada-36533"
+  },
+  {
+    "college_name_standardized": "Shri G. S. Institute of Technology and Science",
+    "short_name": "SGSITS Indore",
+    "region": "Central",
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "type": "GFTI (State Govt)",
+    "established": 1952,
+    "nirf_ranking": null,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA",
+      "MCA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Automobile Engineering",
+      "Applied Chemistry"
+    ],
+    "website": "https://www.sgsits.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/sgsits-indore-indore-11124"
+  },
+  {
+    "college_name_standardized": "Shri Mata Vaishno Devi University",
+    "short_name": "SMVDU Katra",
+    "region": "North",
+    "city": "Katra",
+    "state": "Jammu & Kashmir",
+    "type": "GFTI (State University)",
+    "established": 1999,
+    "nirf_ranking": 121,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Civil Engineering",
+      "Mechanical Engineering",
+      "Electrical Engineering",
+      "Chemical Engineering",
+      "Biotechnology",
+      "Architecture"
+    ],
+    "website": "https://www.smvdu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/smvdu-katra-katra-36534"
+  },
+  {
+    "college_name_standardized": "University of Hyderabad",
+    "short_name": "UoH Hyderabad",
+    "region": "South",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "GFTI (Central University)",
+    "established": 1974,
+    "nirf_ranking": 11,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MA",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Chemical Sciences",
+      "Life Sciences",
+      "Environmental Sciences",
+      "Mathematics",
+      "Physics",
+      "Materials Science"
+    ],
+    "website": "https://www.uohyd.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/university-of-hyderabad-hyderabad-11125"
+  }
+]

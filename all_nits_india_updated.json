@@ -1,0 +1,896 @@
+[
+  {
+    "college_name_standardized": "National Institute of Technology Tiruchirappalli",
+    "short_name": "NIT Trichy",
+    "region": "South",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1964,
+    "nirf_ranking": 9,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Production Engineering",
+      "Instrumentation & Control",
+      "Metallurgical Engineering"
+    ],
+    "website": "https://www.nitt.edu",
+    "shiksha_url": "https://www.shiksha.com/university/nit-trichy-tiruchirappalli-11093",
+    "linkedin_url": "https://in.linkedin.com/school/nittrichy/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Warangal",
+    "short_name": "NIT Warangal",
+    "region": "South",
+    "city": "Warangal",
+    "state": "Telangana",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1959,
+    "nirf_ranking": 26,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Metallurgical Engineering",
+      "Materials Science"
+    ],
+    "website": "https://www.nitw.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-warangal-warangal-11094",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-warangal/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Karnataka, Surathkal",
+    "short_name": "NIT Surathkal",
+    "region": "South",
+    "city": "Surathkal",
+    "state": "Karnataka",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 27,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Mining Engineering",
+      "Metallurgical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.nitk.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-surathkal-mangalore-11097",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-karnataka-surathkal/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Calicut",
+    "short_name": "NIT Calicut",
+    "region": "South",
+    "city": "Calicut",
+    "state": "Kerala",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1961,
+    "nirf_ranking": 35,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Materials Science",
+      "Production Engineering",
+      "Architecture"
+    ],
+    "website": "https://www.nitc.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-calicut-calicut-11096",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-calicut/"
+  },
+  {
+    "college_name_standardized": "Malaviya National Institute of Technology Jaipur",
+    "short_name": "MNIT Jaipur",
+    "region": "North",
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1963,
+    "nirf_ranking": 38,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.mnit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/mnit-jaipur-jaipur-11099",
+    "linkedin_url": "https://in.linkedin.com/school/mnitjaipur/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Rourkela",
+    "short_name": "NIT Rourkela",
+    "region": "East",
+    "city": "Rourkela",
+    "state": "Odisha",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1961,
+    "nirf_ranking": 29,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Mining Engineering",
+      "Biotechnology",
+      "Life Science"
+    ],
+    "website": "https://www.nitrkl.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-rourkela-rourkela-11098",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-rourkela/"
+  },
+  {
+    "college_name_standardized": "Visvesvaraya National Institute of Technology Nagpur",
+    "short_name": "VNIT Nagpur",
+    "region": "West",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 48,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Mining Engineering"
+    ],
+    "website": "https://www.vnit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/vnit-nagpur-nagpur-11100",
+    "linkedin_url": "https://in.linkedin.com/school/visvesvaraya-national-institute-of-technology/"
+  },
+  {
+    "college_name_standardized": "Motilal Nehru National Institute of Technology Allahabad",
+    "short_name": "MNNIT Allahabad",
+    "region": "North",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1961,
+    "nirf_ranking": 53,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Production Engineering"
+    ],
+    "website": "https://www.mnnit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/mnnit-allahabad-prayagraj-11102",
+    "linkedin_url": "https://in.linkedin.com/school/mnnit-allahabad/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Kurukshetra",
+    "short_name": "NIT Kurukshetra",
+    "region": "North",
+    "city": "Kurukshetra",
+    "state": "Haryana",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1963,
+    "nirf_ranking": 55,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Mechanical-Industrial",
+      "Production & Industrial Engineering"
+    ],
+    "website": "https://www.nitkkr.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-kurukshetra-kurukshetra-11103",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-kurukshetra/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Durgapur",
+    "short_name": "NIT Durgapur",
+    "region": "East",
+    "city": "Durgapur",
+    "state": "West Bengal",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 58,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.nitdgp.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-durgapur-durgapur-11104",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-durgapur/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Silchar",
+    "short_name": "NIT Silchar",
+    "region": "East",
+    "city": "Silchar",
+    "state": "Assam",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1967,
+    "nirf_ranking": 67,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Instrumentation"
+    ],
+    "website": "https://www.nits.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-silchar-silchar-11105",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-silchar/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Hamirpur",
+    "short_name": "NIT Hamirpur",
+    "region": "North",
+    "city": "Hamirpur",
+    "state": "Himachal Pradesh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1986,
+    "nirf_ranking": 78,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Materials Science",
+      "Architecture"
+    ],
+    "website": "https://www.nith.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-hamirpur-hamirpur-11107",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-hamirpur/"
+  },
+  {
+    "college_name_standardized": "Dr. B.R. Ambedkar National Institute of Technology Jalandhar",
+    "short_name": "NIT Jalandhar",
+    "region": "North",
+    "city": "Jalandhar",
+    "state": "Punjab",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1987,
+    "nirf_ranking": 72,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Instrumentation",
+      "Leather Technology"
+    ],
+    "website": "https://www.nitj.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-jalandhar-jalandhar-11108",
+    "linkedin_url": "https://in.linkedin.com/school/dr-b-r-ambedkar-national-institute-of-technology-jalandhar/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Patna",
+    "short_name": "NIT Patna",
+    "region": "East",
+    "city": "Patna",
+    "state": "Bihar",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1886,
+    "nirf_ranking": 82,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Architecture"
+    ],
+    "website": "https://www.nitp.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-patna-patna-11109",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-patna/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Raipur",
+    "short_name": "NIT Raipur",
+    "region": "Central",
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1956,
+    "nirf_ranking": 84,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Mining Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.nitrr.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-raipur-raipur-11110",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-raipur/"
+  },
+  {
+    "college_name_standardized": "Maulana Azad National Institute of Technology Bhopal",
+    "short_name": "NIT Bhopal",
+    "region": "Central",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 73,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Biotechnology",
+      "Mechanical-Industrial Engineering"
+    ],
+    "website": "https://www.manit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-bhopal-bhopal-11111",
+    "linkedin_url": "https://in.linkedin.com/school/manitbhopal/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Jamshedpur",
+    "short_name": "NIT Jamshedpur",
+    "region": "East",
+    "city": "Jamshedpur",
+    "state": "Jharkhand",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 70,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Production Engineering",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.nitjsr.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-jamshedpur-jamshedpur-11112",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-jamshedpur/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Srinagar",
+    "short_name": "NIT Srinagar",
+    "region": "North",
+    "city": "Srinagar",
+    "state": "Jammu & Kashmir",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1960,
+    "nirf_ranking": 91,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.nitsri.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-srinagar-srinagar-11113",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-srinagar/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Agartala",
+    "short_name": "NIT Agartala",
+    "region": "East",
+    "city": "Agartala",
+    "state": "Tripura",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1965,
+    "nirf_ranking": 101,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Production Engineering",
+      "Instrumentation Engineering",
+      "Electronics & Instrumentation"
+    ],
+    "website": "https://www.nita.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-agartala-agartala-11114",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-agartala/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Manipur",
+    "short_name": "NIT Manipur",
+    "region": "East",
+    "city": "Imphal",
+    "state": "Manipur",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 151,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.nitmanipur.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-manipur-imphal-21770",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-manipur/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Meghalaya",
+    "short_name": "NIT Meghalaya",
+    "region": "East",
+    "city": "Shillong",
+    "state": "Meghalaya",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 161,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.nitm.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-meghalaya-shillong-43295",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-meghalaya/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Mizoram",
+    "short_name": "NIT Mizoram",
+    "region": "East",
+    "city": "Aizawl",
+    "state": "Mizoram",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 171,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.nitmz.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-mizoram-aizawl-43296",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-mizoram/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Nagaland",
+    "short_name": "NIT Nagaland",
+    "region": "East",
+    "city": "Dimapur",
+    "state": "Nagaland",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 175,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.nitnagaland.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-nagaland-dimapur-43297",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-nagaland/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Puducherry",
+    "short_name": "NIT Puducherry",
+    "region": "South",
+    "city": "Karaikal",
+    "state": "Puducherry",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 141,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.nitpy.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-puducherry-karaikal-43298",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-puducherry/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Sikkim",
+    "short_name": "NIT Sikkim",
+    "region": "East",
+    "city": "Ravangla",
+    "state": "Sikkim",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 181,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.nitsikkim.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-sikkim-ravangla-43299",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-sikkim/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Uttarakhand",
+    "short_name": "NIT Uttarakhand",
+    "region": "North",
+    "city": "Srinagar (Garhwal)",
+    "state": "Uttarakhand",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2009,
+    "nirf_ranking": 131,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.nituk.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-uttarakhand-srinagar-43300",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-uttarakhand/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Andhra Pradesh",
+    "short_name": "NIT Andhra Pradesh",
+    "region": "South",
+    "city": "Tadepalligudem",
+    "state": "Andhra Pradesh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 121,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Biotechnology"
+    ],
+    "website": "https://www.nitandhra.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-andhra-pradesh-tadepalligudem-114757",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-andhra-pradesh/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Delhi",
+    "short_name": "NIT Delhi",
+    "region": "North",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 76,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering",
+      "Information Technology"
+    ],
+    "website": "https://www.nitdelhi.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-delhi-new-delhi-114758",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-delhi/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Goa",
+    "short_name": "NIT Goa",
+    "region": "West",
+    "city": "Ponda",
+    "state": "Goa",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 111,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication",
+      "Chemical Engineering"
+    ],
+    "website": "https://www.nitgoa.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-goa-ponda-114759",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-goa/"
+  },
+  {
+    "college_name_standardized": "National Institute of Technology Arunachal Pradesh",
+    "short_name": "NIT Arunachal Pradesh",
+    "region": "East",
+    "city": "Yupia",
+    "state": "Arunachal Pradesh",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 2010,
+    "nirf_ranking": 191,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.nitap.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-arunachal-pradesh-yupia-114760",
+    "linkedin_url": "https://in.linkedin.com/school/national-institute-of-technology-arunachal-pradesh/"
+  },
+  {
+    "college_name_standardized": "Sardar Vallabhbhai National Institute of Technology Surat",
+    "short_name": "NIT Surat",
+    "region": "West",
+    "city": "Surat",
+    "state": "Gujarat",
+    "type": "NIT (Central Govt - Autonomous)",
+    "established": 1961,
+    "nirf_ranking": 57,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering",
+      "Chemical Engineering",
+      "Electronics & Communication",
+      "Metallurgical Engineering"
+    ],
+    "website": "https://www.svnit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/nit-surat-surat-11106",
+    "linkedin_url": "https://in.linkedin.com/school/sardar-vallabhbhai-national-institute-of-technology/"
+  }
+]

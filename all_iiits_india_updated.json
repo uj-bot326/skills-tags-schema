@@ -1,0 +1,611 @@
+[
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Allahabad",
+    "short_name": "IIIT Allahabad",
+    "region": "North",
+    "city": "Prayagraj",
+    "state": "Uttar Pradesh",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 1999,
+    "nirf_ranking": 51,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MBA"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electrical Engineering",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence",
+      "Bioinformatics"
+    ],
+    "website": "https://www.iiita.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-allahabad-prayagraj-11115",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-allahabad/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Hyderabad",
+    "short_name": "IIIT Hyderabad",
+    "region": "South",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "type": "IIIT (Deemed - Autonomous)",
+    "established": 1998,
+    "nirf_ranking": 44,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "MS (Research)"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Computational Linguistics",
+      "Data Science",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Cognitive Science",
+      "Robotics",
+      "VLSI",
+      "Signal Processing"
+    ],
+    "website": "https://www.iiit.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-hyderabad-hyderabad-11116",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-hyderabad/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Bangalore",
+    "short_name": "IIIT Bangalore",
+    "region": "South",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "type": "IIIT (Deemed - Autonomous)",
+    "established": 1999,
+    "nirf_ranking": 62,
+    "degrees_offered": [
+      "M.Tech",
+      "Ph.D",
+      "M.Sc",
+      "iMTech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence",
+      "Software Engineering",
+      "Digital Society",
+      "Networking"
+    ],
+    "website": "https://www.iiitb.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-bangalore-bangalore-11117",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-bangalore/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Design and Manufacturing Kancheepuram",
+    "short_name": "IIITDM Kancheepuram",
+    "region": "South",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 2007,
+    "nirf_ranking": 88,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Mechanical Engineering",
+      "Smart Manufacturing",
+      "Engineering Design"
+    ],
+    "website": "https://www.iiitdm.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiitdm-kancheepuram-chennai-36518",
+    "linkedin_url": "https://in.linkedin.com/school/iiitdm-kancheepuram/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Design and Manufacturing Jabalpur",
+    "short_name": "IIITDM Jabalpur",
+    "region": "Central",
+    "city": "Jabalpur",
+    "state": "Madhya Pradesh",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 2005,
+    "nirf_ranking": 93,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Mechanical Engineering",
+      "Smart Manufacturing",
+      "Design",
+      "Internet of Things"
+    ],
+    "website": "https://www.iiitdmj.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiitdm-jabalpur-jabalpur-36519",
+    "linkedin_url": "https://in.linkedin.com/school/iiitdm-jabalpur/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Gwalior",
+    "short_name": "ABV-IIITM Gwalior",
+    "region": "Central",
+    "city": "Gwalior",
+    "state": "Madhya Pradesh",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 1997,
+    "nirf_ranking": 75,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D",
+      "MBA",
+      "M.Sc"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics & Communication",
+      "Data Analytics",
+      "Artificial Intelligence",
+      "Bioinformatics",
+      "Information Management"
+    ],
+    "website": "https://www.iiitm.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/abv-iiitm-gwalior-gwalior-11118",
+    "linkedin_url": "https://in.linkedin.com/school/abv-iiitm-gwalior/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Kota",
+    "short_name": "IIIT Kota",
+    "region": "North",
+    "city": "Kota",
+    "state": "Rajasthan",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2013,
+    "nirf_ranking": 121,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitkota.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-kota-kota-79340",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-kota/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Sri City",
+    "short_name": "IIIT Sri City",
+    "region": "South",
+    "city": "Chittoor",
+    "state": "Andhra Pradesh",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2013,
+    "nirf_ranking": 131,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "website": "https://www.iiits.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-sri-city-chittoor-79341",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-sri-city/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Vadodara",
+    "short_name": "IIIT Vadodara",
+    "region": "West",
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2013,
+    "nirf_ranking": 141,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Information Technology"
+    ],
+    "website": "https://www.iiitvadodara.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-vadodara-vadodara-79342",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-vadodara/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Lucknow",
+    "short_name": "IIIT Lucknow",
+    "region": "North",
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 151,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Information Technology",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitl.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-lucknow-lucknow-114761",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-lucknow/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Dharwad",
+    "short_name": "IIIT Dharwad",
+    "region": "South",
+    "city": "Dharwad",
+    "state": "Karnataka",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 161,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "website": "https://www.iiitdwd.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-dharwad-dharwad-114762",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-dharwad/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Design and Manufacturing Kurnool",
+    "short_name": "IIITDM Kurnool",
+    "region": "South",
+    "city": "Kurnool",
+    "state": "Andhra Pradesh",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 171,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech",
+      "Ph.D"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Mechanical Engineering"
+    ],
+    "website": "https://www.iiitk.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiitdm-kurnool-kurnool-114763",
+    "linkedin_url": "https://in.linkedin.com/school/iiitdm-kurnool/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Agartala",
+    "short_name": "IIIT Agartala",
+    "region": "East",
+    "city": "Agartala",
+    "state": "Tripura",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 181,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iiitagartala.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-agartala-agartala-114764",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-agartala/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Raichur",
+    "short_name": "IIIT Raichur",
+    "region": "South",
+    "city": "Raichur",
+    "state": "Karnataka",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2019,
+    "nirf_ranking": 191,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iiitr.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-raichur-raichur-114765",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-raichur/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Ranchi",
+    "short_name": "IIIT Ranchi",
+    "region": "East",
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2016,
+    "nirf_ranking": 196,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitranchi.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-ranchi-ranchi-114766",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-ranchi/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Nagpur",
+    "short_name": "IIIT Nagpur",
+    "region": "West",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2016,
+    "nirf_ranking": 201,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "website": "https://www.iiitn.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-nagpur-nagpur-114767",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-nagpur/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Pune",
+    "short_name": "IIIT Pune",
+    "region": "West",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2016,
+    "nirf_ranking": 206,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitp.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-pune-pune-114768",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-pune/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Bhopal",
+    "short_name": "IIIT Bhopal",
+    "region": "Central",
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2017,
+    "nirf_ranking": 211,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Information Technology"
+    ],
+    "website": "https://www.iiitbhopal.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-bhopal-bhopal-114769",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-bhopal/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Bhagalpur",
+    "short_name": "IIIT Bhagalpur",
+    "region": "East",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2017,
+    "nirf_ranking": 216,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iiitbh.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-bhagalpur-bhagalpur-114770",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-bhagalpur/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Surat",
+    "short_name": "IIIT Surat",
+    "region": "West",
+    "city": "Surat",
+    "state": "Gujarat",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2017,
+    "nirf_ranking": 221,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitsurat.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-surat-surat-114771",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-surat/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Manipur",
+    "short_name": "IIIT Manipur",
+    "region": "East",
+    "city": "Imphal",
+    "state": "Manipur",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 226,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iiitmanipur.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-manipur-imphal-114772",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-manipur/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Tiruchirappalli",
+    "short_name": "IIIT Trichy",
+    "region": "South",
+    "city": "Tiruchirappalli",
+    "state": "Tamil Nadu",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 231,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitt.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-trichy-tiruchirappalli-114773",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-tiruchirappalli/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Una",
+    "short_name": "IIIT Una",
+    "region": "North",
+    "city": "Una",
+    "state": "Himachal Pradesh",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2014,
+    "nirf_ranking": 236,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Information Technology"
+    ],
+    "website": "https://www.iiitu.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-una-una-114774",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-una/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Kalyani",
+    "short_name": "IIIT Kalyani",
+    "region": "East",
+    "city": "Kalyani",
+    "state": "West Bengal",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2014,
+    "nirf_ranking": 241,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science"
+    ],
+    "website": "https://www.iiitklyani.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-kalyani-kalyani-114775",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-kalyani/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Vadodara International Campus Diu",
+    "short_name": "IIIT Vadodara ICD",
+    "region": "West",
+    "city": "Diu",
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "type": "IIIT (Central Govt - Autonomous)",
+    "established": 2017,
+    "nirf_ranking": 246,
+    "degrees_offered": [
+      "B.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication"
+    ],
+    "website": "https://www.iiitvadodara.ac.in/icd",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-vadodara-icd-diu-114776",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-vadodara-international-campus-diu/"
+  },
+  {
+    "college_name_standardized": "Indian Institute of Information Technology Kottayam",
+    "short_name": "IIIT Kottayam",
+    "region": "South",
+    "city": "Kottayam",
+    "state": "Kerala",
+    "type": "IIIT (PPP - Autonomous)",
+    "established": 2015,
+    "nirf_ranking": 251,
+    "degrees_offered": [
+      "B.Tech",
+      "M.Tech"
+    ],
+    "streams_offered": [
+      "Computer Science",
+      "Electronics & Communication",
+      "Data Science",
+      "Artificial Intelligence"
+    ],
+    "website": "https://www.iiitkottayam.ac.in",
+    "shiksha_url": "https://www.shiksha.com/university/iiit-kottayam-kottayam-114777",
+    "linkedin_url": "https://in.linkedin.com/school/iiit-kottayam/"
+  }
+]
